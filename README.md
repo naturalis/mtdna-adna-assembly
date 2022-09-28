@@ -31,7 +31,7 @@ code blocks for commands
 
 ## Authors
 
-Lex Bosch
+* Lex Bosch - 
 lexbosch@live.nl
 
 ## Version History
